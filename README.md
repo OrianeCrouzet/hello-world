@@ -1,2 +1,2 @@
 # test
-Premiers avec GitHub
+Premiers pas avec GitHub
